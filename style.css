@@ -1,0 +1,44 @@
+body {
+    background-color: #F2EEFC;
+    color: white;
+    margin: 0 5%;
+    background-image: url("img/bg.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+}
+h1{
+    color: #1F1F1F;
+}
+h2 {
+    text-align:center;
+}
+.nav {
+    text-align:center;
+    list-style-type: none;
+    width: 100%;
+}
+.nav li {
+width: 32%;
+height:30px;
+color: white;
+ display:inline-block;
+ font-size:20px;
+ line-height:30px;
+ border-radius: 5px;
+ background-color:#1F1F1F;
+ margin: 5px 0;
+ padding: 10px 0;
+}
+.header {
+    width:100%;
+    display:inline-block;
+    position:relative;
+}
+.music {
+    width: 50px;
+    height:50px;
+}
+.title {
+    text-align: center;
+    line-height:30px;
+}
