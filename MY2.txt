@@ -1,0 +1,30 @@
+<html>
+
+
+<head>
+<title> BLOG </title>
+<head>
+
+
+
+<body bgcolor=408080>
+
+<center> 
+<img src="vast.jpg" style="float:right" width="20%" height="50%"/>
+
+     <h1> MY PLAYLIST SONGS </h1>
+     
+
+<hr width=1000 height=1000 color=804000>
+ 
+
+  
+
+<img src="home2.jpg" width=50% height=50%> </center>
+
+
+<body background="music.jpg"
+
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+<h1></h1>
+
+ 
+<p>
+<img src="music-artic.gif" width="200" height="100">
+
+
+
+<hr>
+
+<img src="giphy.gif" width="400" height="200">
+
+
+
+
+<html>
+
+<head>
+<style>
+
+body {background-image: url('bgnervous03.jpg');background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
+
+</style>
+</head>

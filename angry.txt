@@ -1,0 +1,52 @@
+<html>
+
+<img src="music-artic.gif" width="200" height="100">
+
+<div><center>
+<table style="width:100%">
+
+
+	<table border="1">
+	<tr>
+		<td> MY ANGRY PLAYLIST </td>
+	</tr>
+	<tr>
+		<td>... MOST FAVORITE... </td>
+	</tr>
+	</table> 
+
+</body>
+</html>
+</center></div>
+
+
+<hr>
+<img src="giphy.gif" width="400" height="200">
+
+
+
+
+<html>
+
+<head>
+<style>
+
+body {background-image: url('bgangry01.jpg');background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
+
+</style>
+</head>
+
+<p>
+
+<html>
+<body>
+<center>
+<video width="920" height="840" controls>
+  <source src="videoangry.mp4" type="video/mp4">
+  <source src="videoangry.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video> </center>
+
+</body>
+</html>
+
